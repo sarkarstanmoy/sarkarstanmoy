@@ -36,6 +36,13 @@
 
 <hr>
 
+## My Book: Building Modern Serverless Web APIs
+<img src="https://m.media-amazon.com/images/I/71bFxsQgwMS._SL1500_.jpg" width="200" alt="Book Cover">
+
+Building Modern Serverless Web APIs introduces you to the serverless paradigm of the Web API application, its advantages, and presents you the modern approach of developing the Web API. The book makes efficient use of AWS Lambda services to develop efficient, scalable, and cost-effective API solutions. The book begins with a quick introduction to microservices, its characteristics, and current challenges faced in developing and implementing them. The book explores core concepts of ASP.NET Core and some important AWS services that are commonly used to build microservices using AWS. It explores and provides real hands-on microservice patterns and some of the best practices used in designing the serverless architecture. Furthermore, the book covers end-to-end demonstration of an application where you will learn to develop, build, deploy, and monitor microservices on AWS Lambda using .NET Core 3.1. By the end of this book, you will be proficient in developing microservices with AWS Lambda and become a self-starter to build your own secure microservices.
+
+[Buy on Amazon](https://www.amazon.in/Building-Modern-Serverless-APIs-Microservices/dp/9390684781/ref=sr_1_1?crid=3TSFGHRT7FDOY&dib=eyJ2IjoiMSJ9.zy44tbw-9OtbUnKInmRPKMhFrko3jZykSxyyFFR9DPCLaehDwmyiDakR29VkfxiqDUaAgbfOFNfHvuTPEdyzKIECzcmk5Qo8u2SfsnG4zQBFHfHjuROIAcGnnlkEScAaZGTmet7pWdWztgKkbGhXpQ.35a5iV-buvodd4oPVWiU8mH6NUAFHpnCBg2tM7n0WH4&dib_tag=se&keywords=building+modern+serverless&qid=1769532954&sprefix=building+modern+serverles%2Caps%2C361&sr=8-1)
+
 ##  Stats
 
 <br>
