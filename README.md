@@ -28,8 +28,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,ts,nodejs,nestjs,nextjs,postgres,prisma,ditto" />
-  <img src="https://skillicons.dev/icons?i=git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,ts,nodejs,nestjs,nextjs,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,github,nginx,docker,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"/>
 </p>
 
 <hr>
