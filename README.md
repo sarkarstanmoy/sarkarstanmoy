@@ -77,26 +77,36 @@ const tanmoy: PrincipalEngineer = {
 
 ### 💼 &nbsp;Career Timeline
 
-<div align="center">
-2024 Present
-  🔵  Principal Software Engineer — NCR Voyix
-      GCP · Node.js · Terraform · Event-Driven Systems · Ditto NoSQL
-
-2014 ━━ 2024
-  🟣  Principal Consultant — Neudesic Technologies (10 Years)
-      Node.js · NestJS · .NET Core · Azure · C# · SQL
-
-2013 ━━ 2014
-  🟢  Senior Software Engineer — Accenture
-      BizTalk · SQL · C#.NET · SAP Integration · EDI X12
-
-2009 ━━ 2013
-  🟡  Programmer Analyst — Cognizant
-      BizTalk · ESM Systems · Mobile Integration · C#
-​```
-
-</div>
-
+<table>
+  <tr>
+    <td width="130" valign="top"><strong>2024 — Present</strong></td>
+    <td>
+      🔵 &nbsp;<strong>Principal Software Engineer</strong> — NCR Voyix<br>
+      <sub>GCP · Node.js · Terraform · Event-Driven Systems · Ditto NoSQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" valign="top"><strong>2014 — 2024</strong></td>
+    <td>
+      🟣 &nbsp;<strong>Principal Consultant</strong> — Neudesic Technologies (10 Years)<br>
+      <sub>Node.js · NestJS · .NET Core · Azure · C# · SQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" valign="top"><strong>2013 — 2014</strong></td>
+    <td>
+      🟢 &nbsp;<strong>Senior Software Engineer</strong> — Accenture<br>
+      <sub>BizTalk · SQL · C#.NET · SAP Integration · EDI X12</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="130" valign="top"><strong>2009 — 2013</strong></td>
+    <td>
+      🟡 &nbsp;<strong>Programmer Analyst</strong> — Cognizant<br>
+      <sub>BizTalk · ESM Systems · Mobile Integration · C#</sub>
+    </td>
+  </tr>
+</table>
 <br>
 
 <!-- KEY ACHIEVEMENTS -->
