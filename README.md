@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&width=700&height=55&color=4493F8&duration=2500&pause=800&lines=16%2B+Years+of+Engineering+Excellence+%F0%9F%9A%80;Cloud-Native+%7C+Microservices+%7C+Serverless;RAG+%7C+LLMs+%7C+AI+Integration;AWS+%E2%98%81%EF%B8%8F+%7C+GCP+%E2%98%81%EF%B8%8F+%7C+Azure+%E2%98%81%EF%B8%8F;Banking+%7C+Healthcare+%7C+Manufacturing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&center=true&vCenter=true&width=700&height=55&color=4493F8&duration=2500&pause=800&lines=16%2B+Years+of+Engineering+Excellence+%F0%9F%9A%80;Cloud-Native+%7C+Microservices+%7C+Serverless;RAG+%7C+LLMs+%7C+AI+Integration;AWS+%E2%98%81%EF%B8%8F+%7C+GCP+%E2%98%81%EF%B8%8F+%7C+Azure+%E2%98%81%EF%B8%8F;Banking+%7C+Hospitality+%7C+Entertainment" />
 </div>
 
 <!-- BADGES ROW -->
