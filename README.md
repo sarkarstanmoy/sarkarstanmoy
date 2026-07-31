@@ -78,21 +78,19 @@ const tanmoy: PrincipalEngineer = {
 ### 💼 &nbsp;Career Timeline
 
 <div align="center">
-
-​```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Present
+2024 Present
   🔵  Principal Software Engineer — NCR Voyix
       GCP · Node.js · Terraform · Event-Driven Systems · Ditto NoSQL
 
-2014 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2024
+2014 ━━ 2024
   🟣  Principal Consultant — Neudesic Technologies (10 Years)
       Node.js · NestJS · .NET Core · Azure · C# · SQL
 
-2013 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2014
+2013 ━━ 2014
   🟢  Senior Software Engineer — Accenture
       BizTalk · SQL · C#.NET · SAP Integration · EDI X12
 
-2009 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2013
+2009 ━━ 2013
   🟡  Programmer Analyst — Cognizant
       BizTalk · ESM Systems · Mobile Integration · C#
 ​```
