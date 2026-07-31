@@ -11,21 +11,13 @@
 <!-- BADGES ROW -->
 <div align="center">
   <br>
-  <a href="mailto:tanmoysarkar1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:tanmoysarkar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tanmoy-sarkar-7a326030" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/tanmoy-sarkar-7a326030" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://medium.com/@tanmoysarkar1" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  <a href="https://medium.com/@tanmoysarkar1" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.amazon.in/Building-Modern-Serverless-APIs-Microservices/dp/9390684781/">
-    <img src="https://img.shields.io/badge/Published%20Author-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
-  </a>
+  <a href="https://www.amazon.in/Building-Modern-Serverless-APIs-Microservices/dp/9390684781/"><img src="https://img.shields.io/badge/Published%20Author-FF9900?style=for-the-badge&logo=amazon&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=sarkarstanmoy&color=4493F8&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
@@ -37,7 +29,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
-```typescript
+​```typescript
 const tanmoy: PrincipalEngineer = {
   name        : "Tanmoy Sarkar",
   title       : "Principal Software Engineer & Solution Architect",
@@ -50,7 +42,7 @@ const tanmoy: PrincipalEngineer = {
   certifiedIn : ["AWS Solutions Architect – Associate", "Azure Fundamentals AZ-900"],
   askMeAbout  : ["Cloud Migration", "API Design", "System Architecture", "Distributed Systems"],
 };
-```
+​```
 
 <br>
 
@@ -63,16 +55,12 @@ const tanmoy: PrincipalEngineer = {
   <tr>
     <td width="200" align="center">
       <img src="https://m.media-amazon.com/images/I/71bFxsQgwMS._SL1500_.jpg" width="160" style="border-radius:10px;" /><br><br>
-      <a href="https://www.amazon.in/Building-Modern-Serverless-APIs-Microservices/dp/9390684781/">
-        <img src="https://img.shields.io/badge/Buy%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-      </a>
+      <a href="https://www.amazon.in/Building-Modern-Serverless-APIs-Microservices/dp/9390684781/"><img src="https://img.shields.io/badge/Buy%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/></a>
     </td>
     <td>
       <h3>🚀 Building Modern Serverless Web APIs</h3>
       <p><em>Microservices & AWS Lambda using .NET Core</em></p>
-      <p>
-        A battle-tested guide to end-to-end serverless development — covering architectural patterns, Lambda design, and deploying scalable, cost-effective APIs on AWS. Written from <strong>334 days</strong> of real-world engineering.
-      </p>
+      <p>A battle-tested guide to end-to-end serverless development — covering architectural patterns, Lambda design, and deploying scalable, cost-effective APIs on AWS. Written from <strong>334 days</strong> of real-world engineering.</p>
       <br>
       <img src="https://img.shields.io/badge/Topic-Serverless-4493F8?style=flat-square" />
       <img src="https://img.shields.io/badge/Topic-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -91,7 +79,7 @@ const tanmoy: PrincipalEngineer = {
 
 <div align="center">
 
-```
+​```
 2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Present
   🔵  Principal Software Engineer — NCR Voyix
       GCP · Node.js · Terraform · Event-Driven Systems · Ditto NoSQL
@@ -107,7 +95,7 @@ const tanmoy: PrincipalEngineer = {
 2009 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2013
   🟡  Programmer Analyst — Cognizant
       BizTalk · ESM Systems · Mobile Integration · C#
-```
+​```
 
 </div>
 
@@ -121,32 +109,14 @@ const tanmoy: PrincipalEngineer = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📈_PROJECT_DELIVERY-+70%25-success?style=for-the-badge" /><br>
-        <sub>Increase in successful delivery via architecture leadership</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/⚡_EFFICIENCY-+80%25-4493F8?style=for-the-badge" /><br>
-        <sub>Improvement via Node.js, NestJS & .NET Core initiatives</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/💰_INFRA_COSTS--50%25-FF9900?style=for-the-badge" /><br>
-        <sub>Reduction designing Azure solutions for financial clients</sub>
-      </td>
+      <td align="center" width="200"><img src="https://img.shields.io/badge/📈_PROJECT_DELIVERY-+70%25-success?style=for-the-badge" /><br><sub>Increase in successful delivery via architecture leadership</sub></td>
+      <td align="center" width="200"><img src="https://img.shields.io/badge/⚡_EFFICIENCY-+80%25-4493F8?style=for-the-badge" /><br><sub>Improvement via Node.js, NestJS & .NET Core initiatives</sub></td>
+      <td align="center" width="200"><img src="https://img.shields.io/badge/💰_INFRA_COSTS--50%25-FF9900?style=for-the-badge" /><br><sub>Reduction designing Azure solutions for financial clients</sub></td>
     </tr>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/🚀_TIMELINES-+70%25-blueviolet?style=for-the-badge" /><br>
-        <sub>Improvement in delivery timelines through strategic planning</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/🤖_RAG_/_LLMs-Production-red?style=for-the-badge" /><br>
-        <sub>Built enterprise RAG pipeline for intelligent knowledge extraction</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/📖_PUBLISHED-Author-12100E?style=for-the-badge" /><br>
-        <sub>Authored book on Serverless APIs with AWS & .NET Core</sub>
-      </td>
+      <td align="center" width="200"><img src="https://img.shields.io/badge/🚀_TIMELINES-+70%25-blueviolet?style=for-the-badge" /><br><sub>Improvement in delivery timelines through strategic planning</sub></td>
+      <td align="center" width="200"><img src="https://img.shields.io/badge/🤖_RAG_/_LLMs-Production-red?style=for-the-badge" /><br><sub>Built enterprise RAG pipeline for intelligent knowledge extraction</sub></td>
+      <td align="center" width="200"><img src="https://img.shields.io/badge/📖_PUBLISHED-Author-12100E?style=for-the-badge" /><br><sub>Authored book on Serverless APIs with AWS & .NET Core</sub></td>
     </tr>
   </table>
 </div>
@@ -229,6 +199,17 @@ const tanmoy: PrincipalEngineer = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sarkarstanmoy&theme=algolia&hide_border=true&border_radius=12" />
+</div>
+
+<br>
+
+<!-- CONTRIBUTION SNAKE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a6b,100:0d1f3c&height=3" width="100%" />
+
+### 🐍 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sarkarstanmoy/sarkarstanmoy/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br>
